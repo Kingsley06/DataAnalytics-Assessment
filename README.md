@@ -2,12 +2,12 @@
 Submission for Data Analyst SQL Assessment
 # Data Analyst Assessment
 
-## 📖 Overview  
+##  Overview  
 This repository contains solutions to the Data Analyst SQL Assessment. Each SQL file answers a specific question, including well-commented code and optimized queries to handle large datasets efficiently.
 
 ---
 
-## 📂 Files  
+##  Files  
 - `Question1.sql`: High-Value Customers with Multiple Products  
 - `Question2.sql`: Transaction Frequency Analysis  
 - `Question3.sql`: Account Inactivity Alert  
@@ -15,7 +15,7 @@ This repository contains solutions to the Data Analyst SQL Assessment. Each SQL 
 
 ---
 
-## ✅ **Per-Question Explanations**
+##  **Per-Question Explanations**
 
 ### Question 1: High-Value Customers with Multiple Products  
 - **Objective**: Identify customers who own at least one savings plan and one investment plan, and calculate their total deposits.  
@@ -55,7 +55,7 @@ This repository contains solutions to the Data Analyst SQL Assessment. Each SQL 
 
 ---
 
-## 🚧 **Challenges Encountered & Resolutions**
+##  **Challenges Encountered & Resolutions**
 
 - **Handling Large Datasets**:  
   - Queries initially timed out due to heavy joins on large datasets.  
@@ -71,7 +71,7 @@ This repository contains solutions to the Data Analyst SQL Assessment. Each SQL 
 
 ---
 
-## 👤 **Author**
+##  **Author**
 - **Name**: *Ayozie Kingsley*  
 
 ---
